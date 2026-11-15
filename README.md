@@ -21,8 +21,8 @@
 ```swift
 struct Albin {
     let location   = "Stockholm, Sweden 🇸🇪"
-    let studying   = "Computer Engineering (CDATE) @ KTH"
-    let nextUp     = "MSc Industrial Engineering & Management (TINEM)"
+    let studying   = "Computer Science and Engineering @ KTH"
+    let nextUp     = "MSc Industrial Engineering & Management"
     let interests  = ["iOS apps", "Home automation", "Sim racing", "Sprint swimming"]
     let currently  = "Turning everyday annoyances into side projects"
 }
