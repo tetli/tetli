@@ -17,8 +17,7 @@
 ### 👋 About me
 
 - 🎓 Studying **Computer Science and Engineering at KTH**, heading for a master's in **Industrial Engineering & Management**
-- 🏊 Competitive **50m freestyle** sprinter and board member at **Södertälje Simsällskap**
-- 📱 Building iOS apps and home automation, mostly to fix things that annoy me in everyday life
+- 🏊 Competitive swimmer and board member at **Södertälje Simsällskap**
 - 📍 Based in Stockholm, Sweden
 
 ---
