@@ -16,18 +16,10 @@
 
 ### 👋 About me
 
-```swift
-struct Albin {
-    let location   = "Stockholm, Sweden"
-    let studying   = "Computer Science and Engineering @ KTH"
-    let nextUp     = "MSc Industrial Engineering & Management"
-    let interests  = ["iOS apps", "Home automation", "Sim racing", "Sprint swimming"]
-    let currently  = "Turning everyday annoyances into side projects"
-}
-```
-
 - 🎓 Studying **Computer Science and Engineering at KTH**, heading for a master's in **Industrial Engineering & Management**
 - 🏊 Competitive **50m freestyle** sprinter and board member at **Södertälje Simsällskap**
+- 📱 Building iOS apps and home automation, mostly to fix things that annoy me in everyday life
+- 📍 Based in Stockholm, Sweden
 
 ---
 
